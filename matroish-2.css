@@ -54,6 +54,8 @@
     font-size: 16px;
     border: none;
     background: none;
+    outline: none;
+    text-align: center;
   }
   
   input::placeholder {
